@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BadboiControllerScript : MonoBehaviour {
+public class BadBoiControllerScript : MonoBehaviour {
     private string moveInputAxis = "Vertical";
     private string turnInputAxis = "Horizontal";
 
